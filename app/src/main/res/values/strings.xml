@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="all_songs">Wszystkie utwory</string>
+    <string name="add_song">Dodaj piosenkę</string>
+    <string name="playlists">Listy odtwarzania</string>
+    <string name="no_playlist_created">Brak utworzonych list odtwarzania</string>
+    <string name="playlist_name">Nazwa listy odtwarzania</string>
+    <string name="add">Dodaj</string>
+    <string name="cancel">Anuluj</string>
+    <string name="add_playlist">Dodaj liste odtwarzania</string>
+    <string name="my_playlist">moja playlista</string>
+    <string name="unknown_artist">Nieznany wykonawca</string>
+</resources>
